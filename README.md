@@ -1,6 +1,6 @@
 # Module 11 Challenge: Forecasting Net Prophet
 
-![Decorative image.](Images/unit-11-readme-photo.png)
+
 
 ## Background
 
